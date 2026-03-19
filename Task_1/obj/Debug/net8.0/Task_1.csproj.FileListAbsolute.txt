@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.deps.json
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.dll
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.dll
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Task_1.dll
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Task_1.dll
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.exe
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.deps.json
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.dll
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Task_1.pdb
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.dll
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Task_1.dll
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.pdb
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Task_1.dll
