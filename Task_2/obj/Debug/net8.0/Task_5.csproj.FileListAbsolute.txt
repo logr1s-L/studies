@@ -26,3 +26,18 @@ D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\Co
 D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\Task_5\obj\Debug\net8.0\Task_5.pdb
 D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\Task_5\obj\Debug\net8.0\Task_5.genruntimeconfig.cache
 D:\Учеба\2 курс 1 семестр\Програмування\Лаб_5\ConsoleApp1\Task_5\obj\Debug\net8.0\ref\Task_5.dll
+d:\Учеба\GitHub\studies\Task_2\bin\Debug\net8.0\Task_5.exe
+d:\Учеба\GitHub\studies\Task_2\bin\Debug\net8.0\Task_5.deps.json
+d:\Учеба\GitHub\studies\Task_2\bin\Debug\net8.0\Task_5.runtimeconfig.json
+d:\Учеба\GitHub\studies\Task_2\bin\Debug\net8.0\Task_5.dll
+d:\Учеба\GitHub\studies\Task_2\bin\Debug\net8.0\Task_5.pdb
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.AssemblyInfoInputs.cache
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.AssemblyInfo.cs
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.csproj.CoreCompileInputs.cache
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.sourcelink.json
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.dll
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\refint\Task_5.dll
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.pdb
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\Task_5.genruntimeconfig.cache
+d:\Учеба\GitHub\studies\Task_2\obj\Debug\net8.0\ref\Task_5.dll
