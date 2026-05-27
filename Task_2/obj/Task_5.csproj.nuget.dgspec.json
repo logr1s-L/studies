@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj": {}
+    "d:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj": {
+    "d:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj",
+        "projectUniqueName": "d:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj",
         "projectName": "Task_5",
-        "projectPath": "D:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj",
+        "projectPath": "d:\\Учеба\\GitHub\\studies\\Task_2\\Task_5.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\GitHub\\studies\\Task_2\\obj\\",
+        "outputPath": "d:\\Учеба\\GitHub\\studies\\Task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
